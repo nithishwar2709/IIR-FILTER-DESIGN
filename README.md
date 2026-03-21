@@ -52,6 +52,12 @@ xlabel('Normalized Digital Frequency w');
 ylabel('Magnitude');
 title('Frequency Response of Butterworth IIR LPF')
 ```
+# MANUAL CALCULATION:
+![WhatsApp Image 2026-03-21 at 3 23 22 PM](https://github.com/user-attachments/assets/1e77e70d-f58a-4ddf-bc8e-98234ffff5fa)
+![WhatsApp Image 2026-03-21 at 3 23 19 PM](https://github.com/user-attachments/assets/a6bbc95e-a812-467d-8593-90bcbad57f62)
+![WhatsApp Image 2026-03-21 at 3 23 19 PM (1)](https://github.com/user-attachments/assets/0f6b9b3a-9c10-4806-b0c2-695712606c2c)
+
+
 
 # OUTPUT: 
 <img width="1919" height="1199" alt="Screenshot 2026-02-23 084839" src="https://github.com/user-attachments/assets/bbe83b92-27c1-4226-830a-858cee5d809e" />
@@ -117,6 +123,13 @@ ylabel('Magnitude ');
 title(' Frequency Response of Chebyshev IIR LPF');
 
 ```
+# MANUAL CALCULATION:
+
+![WhatsApp Image 2026-03-21 at 3 27 24 PM](https://github.com/user-attachments/assets/0ee27595-fe88-41b5-b5cb-36f125735a71)
+![WhatsApp Image 2026-03-21 at 3 27 23 PM (1)](https://github.com/user-attachments/assets/3a56e375-e993-4775-a860-c8c9521bbbf2)
+![WhatsApp Image 2026-03-21 at 3 27 23 PM](https://github.com/user-attachments/assets/af41f88d-db6c-4469-8871-937482e4fc7a)
+
+
 
 # OUTPUT: 
 
